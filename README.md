@@ -1,12 +1,17 @@
-# 🚀 Jupiter Arbitrage Bot v1🚀
+# ⚡ Solana Arbitrage Bot v1 — Powered by Jupiter V6
+Tired of memecoin sniping, bundling bots, and blind copy trades?
+Time to upgrade. Trade with logic, not luck.
 
-Tired of memecoin plays like sniping, bundling, or copy trading ?
+
+
+Tiredwill apdated 
 Step up your game with real yield.
 
 ---
 
-### Introducing the Arbitrage Bot powered by Jupiter Aggregator V6
-
+### 🔍 Meet the Real-Yield Arbitrage Engine
+An automated arbitrage tool built on the latest Jupiter Aggregator (V6)
+— optimized for Solana's speed and deep DEX liquidity.
 #### Your gateway to automated, real-time profit on Solana.
 
 - 💰 Passive Gains — Capture price discrepancies across top Solana DEXs effortlessly.
@@ -17,13 +22,13 @@ Step up your game with real yield.
 
 ---
 
-### Contact to Developer
+###📞 Dev Contact
 
-For support and further inquiries, please connect via Telegram: 📞 [vvizardev](https://t.me/vvizardev)
+For support and further inquiries, please connect via Telegram: 📞 [vvizardev](https://t.me/web3_maxim)
 
 ---
 
-## ⚙️ How It Works
+## ⚙️⚙️ Arbitrage Cycle — How It Works
 
 1️⃣ Fetch Route 1: Find the optimal path from TOKEN1 → TOKEN2 using Jupiter Aggregator.
 
